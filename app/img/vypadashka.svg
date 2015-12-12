@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="8px" viewBox="0 0 11 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: sketchtool 3.4 (356) - http://www.bohemiancoding.com/sketch -->
+    <title>выпадашка</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Главная-страница" sketch:type="MSArtboardGroup" transform="translate(-829.000000, -4458.000000)" fill="#C9C9C9">
+            <g id="заявка" sketch:type="MSLayerGroup" transform="translate(54.000000, 4166.000000)">
+                <g id="форма" transform="translate(359.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <path d="M423.513833,289.365292 C424.295952,288.583174 425.04978,288.832464 425.197575,289.922242 L426.067469,296.33645 C426.215256,297.426163 425.44793,298.193562 424.353454,298.050465 L417.911591,297.208226 C416.81718,297.065138 416.562846,296.316279 417.346134,295.532991 L423.513833,289.365292 Z" id="выпадашка" transform="translate(421.488558, 293.488558) rotate(-315.000000) translate(-421.488558, -293.488558) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

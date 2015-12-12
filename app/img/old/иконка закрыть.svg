@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: sketchtool 3.4 (356) - http://www.bohemiancoding.com/sketch -->
+    <title>иконка закрыть</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Главная-страница" sketch:type="MSArtboardGroup" transform="translate(-1223.000000, -3329.000000)">
+            <g id="вопросы" sketch:type="MSLayerGroup" transform="translate(412.000000, 3251.000000)">
+                <g id="вопрос-1" transform="translate(0.000000, 68.000000)" sketch:type="MSShapeGroup">
+                    <g id="иконка-закрыть" transform="translate(811.000000, 10.000000)">
+                        <circle id="Oval-10" fill="#EEEEEE" cx="17.5" cy="17.5" r="17.5"></circle>
+                        <g id="Line-+-Line" transform="translate(18.000000, 16.190503) scale(1, -1) translate(-18.000000, -16.190503) translate(12.000000, 14.190503)" stroke="#949494" stroke-linecap="square">
+                            <path d="M0.352941176,0.299321658 L6.19416185,3.90361143" id="Line"></path>
+                            <path d="M11.9653614,0.299321658 L6.23181365,3.9258798" id="Line"></path>
+                        </g>
+                        <g id="Line-+-Line" transform="translate(18.000000, 18.984172) scale(1, -1) translate(-18.000000, -18.984172) translate(12.000000, 16.984172)" stroke="#949494" stroke-linecap="square">
+                            <path d="M0.352941176,0.299321658 L6.19416185,3.90361143" id="Line"></path>
+                            <path d="M11.9653614,0.299321658 L6.23181365,3.9258798" id="Line"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

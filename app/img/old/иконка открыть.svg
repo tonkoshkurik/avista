@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: sketchtool 3.4 (356) - http://www.bohemiancoding.com/sketch -->
+    <title>иконка открыть</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Главная-страница" sketch:type="MSArtboardGroup" transform="translate(-133.000000, -523.000000)">
+            <g id="боковое-меню" sketch:type="MSLayerGroup" transform="translate(119.000000, 241.000000)">
+                <g id="Line-+-Oval-7" transform="translate(15.000000, 283.000000)" sketch:type="MSShapeGroup">
+                    <g id="иконка-открыть">
+                        <path d="M10.197034,12.1921379 L10.059172,12.3299999 L9.92375804,12.194586 L7.13541396,9.40624188 L7,9.27082792 L7.27082792,9 L7.40624188,9.13541396 L10.194586,11.923758 L10.197034,11.9262061 L10.1994821,11.923758 L12.9878262,9.13541396 L13.1232401,9 L13.3940681,9.27082792 L13.2586541,9.40624188 L10.47031,12.194586 L10.3348961,12.3299999 L10.197034,12.1921379 Z" id="Line" stroke="#C7C7C7" stroke-linecap="square"></path>
+                        <circle id="Oval-7" stroke="#E5E5E5" cx="10" cy="10" r="10"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
