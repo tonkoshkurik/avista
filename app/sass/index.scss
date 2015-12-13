@@ -489,7 +489,10 @@ input.send_btn {
 footer {
   margin-top: 24px;
   height: 194px + 33px;
-
+  color: #fff;
+  & a {
+    color: #fff;
+  }
   & .main_footer {
     padding-top: 30px;
     height: 194px;
@@ -513,24 +516,54 @@ footer {
     & .copy {
       float: left;
     }
-    & a {
-      float: right;
+    & a.add_to_favorite {
+      float: right; margin-right: 38px;
+    }
+    & p a {
+      clear: both;
     }
   }
-  & .footer_second {
+  & div.footer_second {
     width: 145px + 72px + 63px;
     float: left;
     position: relative;
     font-size: 12px;
     color: #ffffff;
-    & div:first-child {
-      float: left;
-      width: 61px;
+    & .klients {
+      font-size: 14px;
+      clear: both;
+      color: #d5d5d5;
     }
-    & div:last-child {
-      // clear: left;
-      width: 145px;
+    & div a {
+      line-height: 2.2;
+    }
+    & div.first_klient {
+      float: left;
+      margin-right: 72px;
     }
   }
+  .footer_third {
+    // margin-left: 30px;
+    padding-left: 10px;
+    width: 373px+13px+19px;
+    float: left;
+  }
+  & .zagolovok_adress {
+    background: url(../img/mestoolozhenye_futer.svg) no-repeat 0 0;
+    padding-left: 35px;
+  }
+  & .adress, .questions_or {
+    padding-left: 35px;
+  }
+  & .questions_or {
+    background: url(../img/mylo_ykonka.svg) no-repeat 0 35px;
+    float: left;
 
+  }
+  & .questions_or a {
+    font-weight: 700;
+  }
+  & .phone_me {
+    padding-left: 230px;
+  }
 }
